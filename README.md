@@ -1,6 +1,5 @@
 # ImageCompression
 Low Rank Approximation - using SVD
-
 Low rank approximation is reducing the matrix to its nearest low rank by reducing singular values till to the rank 
 we need to approximate even it applies to unitary vectors U and V.
 
